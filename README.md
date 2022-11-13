@@ -1,5 +1,6 @@
 # a3web
 GEOM 101 Group 11 Website
+(Insert Company Name Here)
 
 GIS program courses and their learning outcomes = Consultancy Services (on link on the navbar)
 two courses per person and everyone contributes to the home page
@@ -25,3 +26,20 @@ Louise:
 5.	Apply geoprocessing techniques using a model builder to solve spatial problems.
 6.	Effectively perform and complete a Spatial Analysis real world project scenario from data acquisition to pre-processing to analysis using a variety of geoprocessing techniques to explore and analyze spatial problems; develop and automate workflow solutions; and validate and present results.
 7.	Using professional and technical language of GIS describe how spatial analysis techniques can be used in industry with respect to their economic and social importance and their future potential.
+
+Nem:
+
+• GIS Database Principles - Our ability to work with and manage database design and processing within the GIS environment. Using SQL is our specialty in building databases and manipulating data for analysis and cartographic presentation.
+1. We can efficiently organize and prepare data for GIS software interchangeably.
+2. Our SQL queries can retrieve data in multiple tables.
+3. Those same queries can perform calculations to manipulate stored data.
+4. We can create custom forms, reports and interfaces for end users.
+5. Capable of transferring data between databases and other applications.
+6. We can design simple conceptual models for relational databases for any given problem.
+
+• Remote Sensing and Image Analysis - The consultancy provides services of measuring physical, biological and cultural features from satellite and aerial imagery. We also use photogrammetry in scale determination and measurements. Through our knowledges of the electro magnetic spectrum, we work with raster data and provide both geometric and atmospheric corrections on our images.
+1. We contrast electromagnetic regions for base and thematic mapping
+2. Use industry standard remote sensing software to extract information
+3. We extract information through interpretation of spectral target properties
+4. Our workflows register satellite and airboprne imagery (photogrammetry) to earth coordinates
+5. We implement image classification, image enhancement and image filtering strategies. We also describe colour theories and image fusion enhancement strategies.
