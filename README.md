@@ -8,8 +8,11 @@ Our skillset will include the skills we have learned during our schooling and tr
 HTML/CSS/Javascript Work Distribution (For both home page and secondary pages following).
 
 Kamryn - Navbar with links to both home page and services page. Doing responsive design to be enabled on mobile as well as general CSS Layout.
+
 Nem - Image sourcing (compression for images, retaining size), Javascript/CSS interaction for images. Using images as links. CSS for tables.
+
 Ewan - Setting classes, ID's for text and other content (focusing on specificity) to be referenced throughout all webpages. CSS formatting for box-models.
+
 Louise - HTML elements (headers, div and paragraphs) to be uniform amongst all web pages for later CSS box-sizing.
 
 HTML Content Distribution:
