@@ -52,3 +52,20 @@ Nem: Focus on companies GIS database principles and how data from remote sensing
 3. We extract information through interpretation of spectral target properties
 4. Our workflows register satellite and airboprne imagery (photogrammetry) to earth coordinates
 5. We implement image classification, image enhancement and image filtering strategies. We also describe colour theories and image fusion enhancement strategies.
+
+Ewan: impact of earth dynamics on measuring and recoding physical data.
+
+• Surveying and CADMapping - We acquire spatial and attribute data, in the field, and efficiently integrate new data back in the office. Leveraging the skill sets within the consultancy, associated with measuring for maps and land-type surveys, we place field data into existing maps and plans. These collected features are then placed in a GIS/Land Information System and appended to existing digital maps and plans.
+1.	We apply field measurements for a given surveying project to map the dimensions of the land.
+2.	We adjust survey data using the principles of elementary plane surveying so that the information can be used in a GIS.
+3.	Using CAD know how, we produce maps with graphic attributes and organize elements using overlapping map layers to represent field work.
+4.	Using COGO (coordinate geometry) expertise, we calculate, measure, and analyze existing and new field data and determine data quality of field work.
+5.	We know how to handle surveying tools and equipment appropriately, in-compliance with industry safety and operating standards.
+
+• Geodesy - we use the science related to the determination of the size and shape of the earth. Due to the curvature of the earth, geodetic principles are applied to small scale maps covering large areas. We posess an deep knowldge of this foundational science and the issues involved in measuring and mapping the earth, such as applying appropriate map projections and coordinate systems.
+1.	We make accurate map scale and ground dimension measurements and calculations to provide superior map reading and application development services.
+2.	We have deep knowledge of the nature of the earth's size, shape, and spherical coordinate systems.
+3.	We explain the fundamental nature of the earth's measurements, the geoid, ellipsoids, techniques of geodetic surveying, and the creation of datums.
+4.	We recognize the general ramifications of transforming the round earth to a flat plane and can establish the characteristics and appropriate uses of various common types of map projections.
+5.	We leverage modern geodetic techniques for measuring the earth and recognize how modern technology enhances our understanding of earth processes.
+
