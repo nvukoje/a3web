@@ -1,12 +1,18 @@
 # a3web
 GEOM 101 Group 11 Website
-(Insert Company Name Here)
+Home Page
 
-GIS program courses and their learning outcomes = Consultancy Services (on link on the navbar)
-two courses per person and everyone contributes to the home page
-Navbar with links to both courses/learning outcomes, but also demonstrate our HTML, CSS and Javascript
+We are a consultancy specializing in data analytics within GIS and have created a website for our company that showcases our skills.
+Our skillset will include the skills we have learned during our schooling and training in technical abilities at Fleming College.
 
-Demonstrating skillset for the "consultancy services"
+HTML/CSS/Javascript Work Distribution (For both home page and secondary pages following).
+
+Kamryn - Navbar with links to both home page and services page. Doing responsive design to be enabled on mobile as well as general CSS Layout.
+Nem - Image sourcing (compression for images, retaining size), Javascript/CSS interaction for images. Using images as links. CSS for tables.
+Ewan - Setting classes, ID's for text and other content (focusing on specificity) to be referenced throughout all webpages. CSS formatting for box-models.
+Louise - HTML elements (headers, div and paragraphs) to be uniform amongst all web pages for later CSS box-sizing.
+
+HTML Content Distribution:
 
 Louise: 
 
@@ -27,7 +33,7 @@ Louise:
 6.	Effectively perform and complete a Spatial Analysis real world project scenario from data acquisition to pre-processing to analysis using a variety of geoprocessing techniques to explore and analyze spatial problems; develop and automate workflow solutions; and validate and present results.
 7.	Using professional and technical language of GIS describe how spatial analysis techniques can be used in industry with respect to their economic and social importance and their future potential.
 
-Nem:
+Nem: Focus on companies GIS database principles and how data from remote sensing can be allocated into a dataset.
 
 • GIS Database Principles - Our ability to work with and manage database design and processing within the GIS environment. Using SQL is our specialty in building databases and manipulating data for analysis and cartographic presentation.
 1. We can efficiently organize and prepare data for GIS software interchangeably.
