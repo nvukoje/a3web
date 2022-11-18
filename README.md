@@ -74,7 +74,7 @@ Web Design and Front-End Development services:
 
 Scripting, Programing and Back-End Development – The workday can be strenuous, fast paced and demanding, making keeping up and managing deadlines a constant battle. Every minute counts, even if its just a few. Today’s programming capabilities in GIS software allow users to process data for analysis and automate redundant repetitive tasks that are time consuming that are taking you away from what you do best. That’s where we come in, providing back end development solutions to help you automate your workflow and complete tasks that wouldn’t be feasible otherwise. Our back-end solutions can become the fundamental separator between efficiency and problem solving capabilities, effectively improving the experience of the product or service you provide to your clientele, allowing you to do what you do best.
 
-Algotrithmic programming and Front-End Development services:
+Algorithmic programming and Front-End Development services:
 1.	High level programming code, and algorithmic solution implementation (ex: python).
 2.	Develop design techniques to solve simple programming, computational, and logic problems in a spatial context.
 3.	Write documentation that explains program design and operation using a standard method allowing for easy future maintenance and updates as needed.
