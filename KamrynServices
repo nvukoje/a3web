@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Web Mapping, Design and Front-End Development</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="group11.css">
+</head>
+<body>
+
+<!-- Navbar Adding -->
+<div class="w3-top">
+  <div class="background w3-bar w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large titlecolor w3-large background" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href= "index.html" class="w3-bar-item w3-button w3-padding-large titlecolor">Home</a>
+    <a href="LouiseServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Louise</a>
+    <a href="KamrynServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Kamryn</a>
+    <a href="NemServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Nem</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Ewan</a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Louise</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Kamryn</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Nem</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Ewan</a>
+  </div>
+</div>
+
+
+<!-- Header -->
+<header class="w3-container background w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo titlecolor">Gemini Geospatial</h1>
+  <p class="w3-xlarge subtitlecolor">Geospatial Data Professionals and Consulting Firm</p>
+</header>
+
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+      <div class="w3-content">
+        <div class="w3-third w3-center">
+          <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
+        </div>
+    
+        <div class="w3-twothird">
+            <h1>Web Mapping, Design and Front-End Development - The Importance?</h1>
+              
+            <p class="w3-text-grey">The internet has forever changed the way we interact and communicate with one another. With the single press of a button, we can create,
+            share and display information in ways never previously possible. So how, and who, manages this intricate system of information we have
+            become so dependant on for our daily lives? That's where we come in! After a quick consultation with one of our web design and development
+            representatives, we can layout and provide the correct solution for you, regardless of your profession, interest and needs, our team of
+            professionals will create a portfolio of web mapping and design solutions that cordially relate to helping you reach your clientele in the
+            way that represents your ambitious goals.</p>
+
+            <h2>Web Mapping, Design and Front-End Development - The Importance?</h1>
+                </header>
+                <section>
+                    <p>
+                        <pre>
+                            1. High level programming code, and algorithmic solution implementation (ex: python).
+                            2. Develop design techniques to solve simple programming, computational, and logic problems in a spatial context.
+                            3. Write documentation that explains program design and operation using a standard method allowing for easy future maintenance and
+                               updates as needed.
+                            4. Create, design, and write modular automated and structured programs for structured selection and repetition tasks, and function
+                               design requirements.
+                            5. Automate the data transfer process of writing and reading files between applications and reports.
+                            6. Develop model based object-oriented functionality specific to classes and domain structures for problems or applications.
+                            7. Management of error handling and testing to ensure the successful exaction of programs (syntax, runtime, and semantic).
+                            8. Create programs that automate spatial process that can be implemented across a team network and used collaboratively and equitably.
+                        <pre>
+                   </p>
+                <section>
+    
+            <p class="w3-text-grey">Click Here to find out more.</a></p>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
