@@ -57,9 +57,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 /*.group11navbar .group11navabr:hover .group11navbarbutton, .w3-bar-block .w3-dropdown-click .w3-button{width:100%;text-align:left;padding:8px 16px}*/
 .group11navbaritem {list-style: none;}
 .group11navbaritem {text-decoration: none; color: whitesmoke; padding: 1rem; display: block;}
-/*.group11navabr:hover {background-color: whitesmoke;}
+.group11navabr:hover {background-color: whitesmoke;}
 .group11navbarbutton {position: absolute;top: .75rem;right: 1rem;display: none;flex-direction: column;justify-content: space-between;width: 30px;height: 21px;}
 .group11navbarbutton .group11navbar {height: 3px;width: 100%;background-color: white;border-radius: 10px;}
-.center {display:block;margin-left:auto;margin-right:auto;width:100%;}*/
+/*.center {display:block;margin-left:auto;margin-right:auto;width:100%;}*/
 
 
