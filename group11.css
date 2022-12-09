@@ -33,10 +33,6 @@ tr:nth-child(even) {
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    display: flex;
-    justify-content: center;
-}
 .image-container{
     width: 624px;
     height: 362px;
