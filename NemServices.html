@@ -9,6 +9,18 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="group11.css">
+<script>
+  const img = document.getElementById("images")
+  let toggle = true;
+  img.addEventListener("click", function(){
+    toggle = !toggle;
+    if(toggle){
+      img.src="img\\RemoteSensing1.jpg";
+    }else{
+      img.src="img\\RemoteSensing2.jpg";
+    }
+  })
+</script>
 </head>
 <body>
 
@@ -150,6 +162,9 @@
         the 'True Colour Composite' image. Images can also be filtered to highlight different features in the land, such as urban areas. These land features are sharpened to be
         more visible for the client.
       </p>
+    </div>
+    <div>
+      <img src="img/RemoteSensing1.jpg" alt="ImageUnfiltered" id="images">
     </div>
   </div>
 </div>
