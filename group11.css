@@ -24,7 +24,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 /* Kamryn CSS */
 .KamrynImage {border-radius: 12%; padding:12px; background-color: lightsalmon;}
 .group11navbar {padding:10px 18px; background-color: black; float:left; width:auto; border:none; display:flex; outline:0}
-.group11navbaritem {width:auto; display:block; padding:8px 16px; text-align:left; border:none; white-space:normal; float:none; outline:0}
+.group11navbar .group11navbaritem {padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+
 
 
 

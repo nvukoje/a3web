@@ -1,4 +1,4 @@
-/* Nem function*/
+/* Navbar for smaller screens*/
 function myFunction() {
     var x = document.getElementById("navDemo");
     if (x.className.indexOf("w3-show") == -1) {
