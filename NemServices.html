@@ -9,6 +9,18 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="group11.css">
+<script>
+  const img = document.getElementById("images")
+  let toggle = true;
+  img.addEventListener('click', function(){
+    toggle = !toggle;
+    if(toggle){
+      img.src = "img\\RemoteSensing1.jpg";
+    }else{
+      img.src = "img\\RemoteSensing2.jpg"
+    }
+  })
+</script>
 </head>
 <body>
 
@@ -150,22 +162,8 @@
         the 'True Colour Composite' image. Images can also be filtered to highlight different features in the land, such as urban areas. These land features are sharpened to be
         more visible for the client.
       </p>
-    </div>
-    <div>
-      <img id="imageonclick" src="RemoteSensing1.jpg">
-      <script>
-        document.getElementById("imageonclick").onclick = function() {
-    if(this.src == "RemoteSensing1.jpg"){
-        this.src = "RemoteSensing2.jpg";
-    } else {
-        this.src = "RemoteSensing1.jpg";
-    }
-};
-      </script>
-    </div>
   </div>
 </div>
-
 
 <div class="w3-container background w3-center w3-opacity w3-padding-64">
     <h1 class="w3-margin w3-xlarge">Gemini Geospatial</h1>
@@ -181,21 +179,7 @@
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
  </div>
- <p>Powered<a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
-
-<script>
-// Used to toggle the menu on small screens when clicking on the menu button
-function myFunction() {
-  var x = document.getElementById("navDemo");
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
-}
-</script>
-
 </body>
 </html>
 
