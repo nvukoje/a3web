@@ -5,7 +5,7 @@ tr:nth-child(even) {background-color: darkgrey;}
 .background {background-color:black}
 .titlecolor {color:ghostwhite}
 .subtitlecolor {color:lightslategrey}
-.textcolor{color:darkgray}
+.textcolor{color:darkslategrey}
 .group11padding{padding:14px 26px}
 .Nemimage{border-radius: 10%; padding:10px; background-color: lightslategrey; flex-basis:40%;}
 
