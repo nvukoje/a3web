@@ -1,4 +1,40 @@
 /* Nem CSS */
+<<<<<<< HEAD
+table {
+    font-family: arial;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th {
+    border: 1px solid lightslategray;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+tr:nth-child(even) {
+    background-color: darkgrey;
+}
+.background {
+    background-color:black
+}
+.titlecolor {
+    color:ghostwhite
+}
+.subtitlecolor {
+    color:lightslategrey
+}
+.textcolor{
+    color:darkgray
+}
+.group11padding{
+    padding:14px 26px
+}
+img#getImage {
+    width: 624px;
+    height: 352px;
+    border: 4px solid #a1a1a1
+}
+=======
 table {font-family: arial;border-collapse: collapse;width: 100%;}
 td,th {border: 1px solid lightslategray;text-align: center;padding: 10px;font-size: 20px;}
 tr:nth-child(even) {background-color: darkgrey;}
@@ -7,6 +43,7 @@ tr:nth-child(even) {background-color: darkgrey;}
 .subtitlecolor {color:lightslategrey}
 .textcolor{color:darkgray}
 .group11padding{padding:14px 26px}
+>>>>>>> d5cf7b994931af62c69e32848677924efaeaedcc
 
 /* Ewan CSS */
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
