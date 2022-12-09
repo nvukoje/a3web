@@ -28,19 +28,6 @@ tr:nth-child(even) {
 .group11padding{
     padding:14px 26px
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-.image-container{
-    width: 624px;
-    height: 362px;
-}
-.image-container img{
-    width: 100%;
-    height: 100%;
-}
 
 /* Ewan CSS */
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
