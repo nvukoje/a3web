@@ -1,3 +1,4 @@
+/* Nem CSS */
 table {font-family: arial;border-collapse: collapse;width: 100%;}
 td,th {border: 1px solid lightslategray;text-align: center;padding: 10px;font-size: 20px;}
 tr:nth-child(even) {background-color: darkgrey;}
@@ -6,10 +7,16 @@ tr:nth-child(even) {background-color: darkgrey;}
 .subtitlecolor {color:lightslategrey}
 .textcolor{color:darkgray}
 .group11padding{padding:14px 26px}
+
+/* Ewan CSS */
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-camera-retro,.fa-tachometer,.fa-anchor,.fa-coffee,.fa-globe,.fa-code-fork,.fa-codepen,.fa-database,.fa-plane {font-size:200px}
+
+/* Louise CSS */
 .LouiseImage {border-radius: 10%; padding:10px; background-color: gray;}
+
+/* Kamryn CSS */
 .KamrynImage {border-radius: 10%; padding:10px; background-color: gray;}
 
 
