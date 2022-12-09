@@ -7,7 +7,7 @@ tr:nth-child(even) {background-color: darkgrey;}
 .subtitlecolor {color:lightslategrey}
 .textcolor{color:darkgray}
 .group11padding{padding:14px 26px}
-
+img#getImage{width:624px;height:352px;border:4px solid lightslategrey}
 /* Ewan CSS */
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
