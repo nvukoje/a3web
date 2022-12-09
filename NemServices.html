@@ -9,19 +9,18 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="group11.css">
-<script src="group11js.js"></script>
 </head>
 <body>
 
   <!-- Navbar Adding -->
 <div class="w3-top">
   <div class="background w3-bar w3-card w3-left-align w3-large">
-    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right group11padding w3-large background" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href= "index.html" class="w3-bar-item w3-button group11padding titlecolor">Home</a>
-    <a href="LouiseServices.html" class="w3-bar-item w3-button w3-hide-small group11padding titlecolor">Louise</a>
-    <a href="KamrynServices.html" class="w3-bar-item w3-button w3-hide-small group11padding titlecolor">Kamryn</a>
-    <a href="NemServices.html" class="w3-bar-item w3-button w3-hide-small group11padding titlecolor">Nem</a>
-    <a href="EwanServices.html" class="w3-bar-item w3-button w3-hide-small group11padding titlecolor">Ewan</a>
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-large background" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href= "index.html" class="w3-bar-item w3-button w3-padding-large titlecolor">Home</a>
+    <a href="LouiseServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Louise</a>
+    <a href="KamrynServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Kamryn</a>
+    <a href="NemServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Nem</a>
+    <a href="EwanServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Ewan</a>
   </div>
 
   <!-- Navbar on small screens -->
@@ -183,6 +182,18 @@
  </div>
 </footer>
 
+<script>
+  // Used to toggle the menu on small screens when clicking on the menu button
+  function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+      x.className += " w3-show";
+    } else { 
+      x.className = x.className.replace(" w3-show", "");
+    }
+  }
+  </script>
+  
 </body>
 </html>
 
