@@ -9,6 +9,7 @@ tr:nth-child(even) {background-color: darkgrey;}
 .group11padding{padding:14px 26px}
 .Nemimage{border-radius: 10%; padding:10px; background-color: lightslategrey; flex-basis:40%;}
 .underline{text-decoration-line:underline; text-decoration-style:solid;}
+.showblock{display:block!important}
 
 
 /* Ewan CSS */
