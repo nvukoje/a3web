@@ -67,27 +67,37 @@ body,h1,h2,h3,h4,h5,h6 {
 
 /* Kamryn CSS */
 .KamrynImage {
-    border-radius: 12%; padding:12px; background-color: lightsalmon;
+    border-radius: 12%; 
+    padding:12px; 
+    background-color: lightsalmon;
 }
-
 .group11navbartop,.group11navbarbottom {
-    position:relative; width:100%; z-index:1!important
+    position:relative; 
+    width:100%; 
+    z-index:1!important
 }
-
 .group11navbartop {
     top: 0 !important
 }
-
 .group11navbarbottom {
     bottom: 0 !important
 }
-
 .group11navbar {
-    padding:10px 18px; background-color: black; float:left; width:auto; border:none; display:flex; outline: 0 !important
+    padding:10px 18px; 
+    background-color: black; 
+    float:left; 
+    width:auto; 
+    border:none; 
+    display:flex; 
+    outline: 0 !important
 }
-
 .group11navbar .group11navbaritem {
-    padding:8px 16px; float:left; width:auto; border:none; display:block; outline: 0 !important
+    padding:8px 16px; 
+    float:left; 
+    width:auto; 
+    border:none; 
+    display:block; 
+    outline: 0 !important
 }
 
 
