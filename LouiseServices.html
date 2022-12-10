@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <style>
-    .LouiseImage {border-radius: 20%; padding:20px; background-color: darkgray; float:right;}
+    .LouiseImage {border-radius: 20%; padding:30px; background-color: black; float:right;}
     .headerpadding {padding:120px 14px;}
     .headertext {text-align:center;}
     .gridpadding {padding:50px;}
@@ -19,27 +19,28 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="group11.css"
+<link rel="stylesheet" href="group11.css">
+<script src="group11js.js"></script>
 </head>
 <body>
 
 <!-- Navbar Adding -->
-<div class="w3-top">
-  <div class="background w3-bar w3-card w3-left-align w3-large">
-    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large titlecolor w3-large background" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href= "index.html" class="w3-bar-item w3-button w3-padding-large titlecolor">Home</a>
-    <a href="LouiseServices.html" class="group11navabritem group11navbarbutton group11navbar:hover w3-hide-small group11padding titlecolor">Louise</a>
-    <a href="KamrynServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Kamryn</a>
-    <a href="NemServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Nem</a>
-    <a href="EwanServices.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large titlecolor">Ewan</a>
+<div class="group11navbartop">
+  <div class="background group11navbar w3-card w3-left-align w3-large">
+    <a class="group11navbaritem w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-large background" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href= "index.html" class="group11navbaritem w3-button group11padding titlecolor">Home</a>
+    <a href="LouiseServices.html" class="group11navbaritem w3-button w3-hide-small group11padding titlecolor">Louise</a>
+    <a href="KamrynServices.html" class="group11navbaritem w3-button w3-hide-small group11padding titlecolor">Kamryn</a>
+    <a href="NemServices.html" class="group11navbaritem w3-button w3-hide-small group11padding titlecolor">Nem</a>
+    <a href="EwanServices.html" class="group11navbaritem w3-button w3-hide-small group11padding titlecolor">Ewan</a>
   </div>
-  
+
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-    <a href="LouiseServices.html" class="w3-bar-item w3-button w3-padding-large">Louise</a>
-    <a href="KamrynServices.html" class="w3-bar-item w3-button w3-padding-large">Kamryn</a>
-    <a href="NemServices.html" class="w3-bar-item w3-button w3-padding-large">Nem</a>
-    <a href="EwanServices.html" class="w3-bar-item w3-button w3-padding-large">Ewan</a>
+    <a href="LouiseServices.html" class="group11navbaritem w3-button group11padding titlecolor">Louise</a>
+    <a href="KamrynServices.html" class="group11navbaritem w3-button group11padding titlecolor">Kamryn</a>
+    <a href="NemServices.html" class="group11navbaritem w3-button group11padding titlecolor">Nem</a>
+    <a href="EwanServices.html" class="group11navbaritem w3-button group11padding titlecolor">Ewan</a>
   </div>
 </div>
 
@@ -54,11 +55,11 @@
 <div class="gridpadding w3-container gridcontainer backgroundcontainer1">
   <div class="w3-content">
     <div class="w3-two-third">
-      <h1> Spatial Analysis</h1>
-       <h5>	You might be wondering how exactly can we help solve complex location-oriented problems. Simply put we: </h5>
-       <h5>  1. Explore and understand your data from a geographic perspective, determine relationships with the real world, detect and quantify patterns and assess trends</h5> 
-       <h5>  2. We then make predictions and decisions based on your needs. </h5>
-       <h5> The Image below shows how we break the real world down into layers, and with those layers is how we can help solve location oriented-problems.</h5>
+      <h1 class="subtitlecolor"> Spatial Analysis</h1>
+       <p class="subtitlecolor">	You might be wondering how exactly can we help solve complex location-oriented problems. Simply put we: </p>
+       <p class = "textcolor">  1. Explore and understand your data from a geographic perspective, determine relationships with the real world, detect and quantify patterns and assess trends</p> 
+       <p class = "textcolor">  2. We then make predictions and decisions based on your needs. </p>
+       <p class = "textcolor"> The Image below shows how we break the real world down into layers, and with those layers is how we can help solve location oriented-problems.</p>
     </div>
     <div>
       <img src= "images/Louisespatialresize.jpg" alt = "Spatial Analysis Image" width="684" height="383" class = "LouiseImage">
@@ -70,31 +71,30 @@
 <div class="gridpadding w3-container grid container backgroundcontainer2">
     <div class="w3-content">
       <div class="w3-twothird">
-        <h1>Geovisualization </h1>
-        <h5> Through the Use of Cartographic design, such as colour, symbology, and typography using state of the art graphic design software we can:
-         <h5> 1. Produdce any type of map or visual display you would like, at any scale to effectively and professionally display what you would like to communicate.</h5>
-          <h5>2. Support decision making processes in government, commercial, consulting, other organizations, or general public to help you share your message in a visually 
-              appealling and informative way. </h5>
-              <h5> An example of what that can look like is the image below, where a map is not limited to appearing in 2D but it can display the objects and buildings in 3D.
+        <h1 class = "subtitlecolor"> Geovisualization </h1>
+        <p class = "textcolor"> Through the Use of Cartographic design, such as colour, symbology, and typography using state of the art graphic design software we can:
+        <p class = "textcolor"> 1. Produdce any type of map or visual display you would like, at any scale to effectively and professionally display what you would like to communicate.</h5>
+        <p class = "textcolor">2. Support decision making processes in government, commercial, consulting, other organizations, or general public to help you share your message in a visually 
+                                  appealling and informative way. </h5>
+        <p class = "textcolor"> An example of what that can look like is the image below, where a map is not limited to appearing in 2D but it can display the objects and buildings in 3D.
                  This is one of many design aspects we can create for you</h5>
-        <div >
-        <img src= "images/Louisegeovis2resize.jpg" alt = "Example Geovisualization Map" width="591" height="443" class="LouiseImage2" >
-        </div>
+      <div>
+       <img src= "images/Louisegeovis2resize.jpg" alt = "Example Geovisualization Map" width="591" height="443" class="LouiseImage2" >
       </div>
+    </div>
       
-      <div>
-       <img src= "images/Louisegeovis1.jpg" alt = "Put the World in focus" width="1200" height="671" class="LouiseImage3" >
-      </div>
-      <div>
-        <h5> With the help of Geovisualization, we can help put your vision into focus for the world to see.</h5>
-      </div>
+    <div>
+     <img src= "images/Louisegeovis1.jpg" alt = "Put the World in focus" width="1200" height="671" class="LouiseImage3" >
+    </div>
+    <div>
+     <h1 class = "Subtitlecolor"> With the help of Geovisualization, we can help put your vision into focus for the world to see.</h5>
     </div>
  </div>
 
 
 
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-  <h1 class="w3-margin w3-xlarge">Quote of the day: live life </h1>
+  <h1 class="w3-margin w3-xlarge">Gemini Geospatial </h1>
 </div>
 
 <!-- Footer -->
@@ -109,18 +109,5 @@
  </div>
  <p>Powered by Nem Vukoje<a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
-
-<script>
-// Used to toggle the menu on small screens when clicking on the menu button
-function myFunction() {
-  var x = document.getElementById("navDemo");
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
-}
-</script>
-
 </body>
 </html>
