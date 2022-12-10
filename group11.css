@@ -20,14 +20,14 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 /* Louise CSS */
 
 .gridcontainer {display:flex; align-items: center; justify-content:center;}
-.LouiseImage {border-radius: 20%; padding:30px; background-color: black; float:right; max-width: 100%; height: auto;}
+.LouiseImage {border-radius: 20%; padding:15px; background-color: black; float:right; max-width: 100%; height: auto;}
 .headerpadding {padding:120px 14px;}
 .headertext {text-align:center;}
 .gridpadding {padding:50px;}
 .backgroundcontainer1 {background-color:lightsteelblue;}
 .backgroundcontainer2 {background-color: rgb(167, 190, 212);}
 .LouiseImage2 {border-radius: 10%; padding:20px; background-color: slategray; float:left; max-width: 100%; height: auto;}
-.LouiseImage3 {border-radius: 20%; padding:40px; background-color:rgb(27, 66, 104); text-align:center; margin-top: 50px; max-width: 100%; height: auto;}
+.LouiseImage3 {border-radius: 20%; padding:20px; background-color:rgb(27, 66, 104); text-align:center; margin-top: 50px; max-width: 100%; height: auto;}
 .gridcontent {max-width: 900px;}
 .textpadding {padding:15px}
 /* Kamryn CSS */
