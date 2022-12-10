@@ -27,9 +27,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .backgroundcontainer1 {background-color:lightsteelblue;}
 .backgroundcontainer2 {background-color: rgb(167, 190, 212);}
 .LouiseImage2 {border-radius: 10%; padding:20px; background-color: slategray; float:left; max-width: 100%; height: auto;}
-.LouiseImage3 {border-radius: 20%; padding:20px; background-color:rgb(27, 66, 104); text-align:center; margin-top: 50px; max-width: 100%; height: auto;}
+.LouiseImage3 {border-radius: 20%; padding:15px; background-color:rgb(27, 66, 104); text-align:center; margin-top: 50px; max-width: 100%; height: auto;}
 .gridcontent {max-width: 900px;}
 .textpadding {padding:15px}
+
 /* Kamryn CSS */
 .KamrynImage {border-radius: 12%; padding:12px; background-color: lightsalmon;}
 .group11navbartop,.group11navbarbottom {position:relative; width:100%; z-index:1!important}
